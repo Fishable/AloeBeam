@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Beam by Aloe
 
 You can use the [editor on GitHub](https://github.com/Fishable/AloeBeam/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
